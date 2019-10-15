@@ -1,11 +1,9 @@
 # update Timer9View.cpp
-<div style="text-align : center">
-:angel:
-</div>
+::angel::
 <br/>
 <br/>
 <img src="/riverduck.jpg" width = "500px" height="300px"></img>
-<hr/>
+<br/>
 
 ```C++
 void CTimer9View::OnInitialUpdate()
