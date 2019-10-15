@@ -1,6 +1,6 @@
 # update Timer9View.cpp
 :angel:
-
+<img src="/riverduck.jpg" width = "500px" height="300px"/>
 ```C++
 void CTimer9View::OnInitialUpdate()
 {
@@ -34,4 +34,4 @@ void CTimer9View::OnTimer(UINT_PTR nIDEvent)
 	CView::OnTimer(nIDEvent);
 }
 ```
-<img src="/riverduck.jpg" width = "200px" height="100px"/>
+
