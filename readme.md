@@ -1,6 +1,6 @@
 # update Timer9View.cpp
 <br/>
-<center><img src="/riverduck.jpg" width = "500px" height="300px" ></img></center>
+<center><img src="/riverduck.jpg" width = "500px" height="300px" ></center>
 <br/>
 
 ```C++
