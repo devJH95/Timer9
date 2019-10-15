@@ -1,7 +1,8 @@
 # update Timer9View.cpp
 :angel:
+<img src="/riverduck.jpg" width = "500px" height="300px"></img>
 <hr/>
-<img src="/riverduck.jpg" width = "500px" height="300px"/>
+
 ```C++
 void CTimer9View::OnInitialUpdate()
 {
