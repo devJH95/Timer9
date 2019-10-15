@@ -34,3 +34,4 @@ void CTimer9View::OnTimer(UINT_PTR nIDEvent)
 	CView::OnTimer(nIDEvent);
 }
 ```
+<img src="/riverduck.jpg" width = "200px" height="100px"/>
